@@ -1,4 +1,5 @@
-# git_test
+# Odin Landing Page Project
 
-My numberest github repo!
-Hello, Odin!
+## TODO
+
+Describe the project and link requirement imgs.
